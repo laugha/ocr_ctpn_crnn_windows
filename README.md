@@ -11,5 +11,7 @@ ctpn部分测试 --> crnn_test.py
 crnn部分测试 --> ctpn_test.py
 整体测试 test.py
 # 预训练模型
+链接：https://pan.baidu.com/s/1Yjf3qMi82Qmy2vGTTuHZmA 
+提取码：i753 
 # 最终
 如果有问题或者对ocr算法有改进建议，请联系我的邮箱84019582@qq.com
