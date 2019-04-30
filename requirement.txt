@@ -8,3 +8,4 @@ tensorflow==1.7.0
 lmdb
 easydict
 pyyaml
+fuzzywuzzy
