@@ -1,0 +1,11 @@
+python-Levenshtein==0.12.0  备注：1、 在https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein找对应的whl文件python_Levenshtein?0.12.0?cp36?cp36m?win_amd64.whl并下载 2、在cmd命令行进入下载的文件夹，并键入命令pip install python_Levenshtein?0.12.0?cp36?cp36m?win_amd64.whl 
+python=3.6.8
+pillow 
+opencv-python
+torch==1.0.1 备注：pip install https://download.pytorch.org/whl/cpu/torch-1.0.1-cp36-cp36m-win_amd64.whl
+torchvision
+tensorflow==1.7.0
+lmdb 备注：1、 在https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-levenshtein找对应的whl文件lmdb?0.94?cp36?cp36m?win_amd64.whl并下载 2、在cmd命令行进入下载的文件夹，并键入命令pip install lmdb?0.94?cp36?cp36m?win_amd64.whl
+easydict
+pyyaml
+fuzzywuzzy
