@@ -1,6 +1,6 @@
 # ocr_ctpn_crnn_windows
-# 前言
 chinese+english+numbers ocr algorithm based on ctpn+crnn especially on Windows
+# 前言
 我在github上找了半天关于中文ocr的代码，大部分都是linux环境下的，windows下运行的几乎没有。
 费了好大功夫才将文本检测ctpn算法和文字识别crnn算法在windows运行，并将两者集合起来，形成一个
 对一张照片的ocr识别。
