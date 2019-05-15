@@ -9,7 +9,8 @@ Chinese+English+Numbers text-detection and text-recognization algorithms based o
 # 测试
 ctpn部分测试 --> crnn_test.py  
 crnn部分测试 --> ctpn_test.py  
-整体测试 test.py  
+整体测试 --> test.py  
+“互联网+”比赛 --> for_internet.py 修改其中的单张测试部分的im_path,然后命令行运行即可
 # 预训练模型
 链接：https://pan.baidu.com/s/1Yjf3qMi82Qmy2vGTTuHZmA 
 提取码：i753 
